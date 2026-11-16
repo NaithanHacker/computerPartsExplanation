@@ -1,0 +1,23 @@
+Output - Monitor - Screen - Display - Start - HDMI 
+|
+|
+|
+CPU - Central Processing Unit - Bios ON
+Button - Click
+|
+|
+|
+|
+Input - Keyboard
+
+Input - Mouse
+
+CPU - 
+ALU - Arithmetic and Logic Unit 
+CU - Control Unit
+MU - Memory Unit
+
+X
+
+Cabinet
+RAM - Every Processes are started from here
