@@ -20,4 +20,28 @@ MU - Memory Unit
 X
 
 Cabinet
-RAM - Every Processes are started from here
+RAM - [Random Access Memory], Every Processes are started from here
+ROM - [Read Only Memory] - BIOS 
+
+Buses - Wires
+HDD - Hard Disk
+Processor - [Intel, AMD RYZEN, APPLE] - Chip - i.e., consists of transistors - Cooler
+Display Card - Intel
+
+Gaming Laptop - Display Card, Graphics Card, GPU - NVIDIA 
+NVIDIA 
+GeForce RTX 3050 - 4GB
+GeForce RTX 5050 - 8GB
+
+GTX
+GT
+
+HDMI - Laptop
+VGA Cable - Projector OLD
+
+Realtek Software - Speaker
+Realtek - Wifi
+Bluetooth
+Windows Operating System
+
+UNIX Operating System - [Kali Linux, Arch Linux, Parrot Linux, Redhat Linux, Ubuntu Linux, Debian]
